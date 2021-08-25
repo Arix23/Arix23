@@ -9,8 +9,8 @@
 <h2 align="left">GitHub stats</h2>
 
 <p align="center">
-<img width="48%" src="https://raw.githubusercontent.com/Arix23/github-stats-transparent/output/generated/overview.svg"
+<img width="48%" src="https://raw.githubusercontent.com/Arix23/github-stats-transparent/tree/output/generated/overview.svg"
      alt="overview"/>
-<img width="48%" src="https://raw.githubusercontent.com/Arix23/github-stats-transparent/output/generated/languages.svg"
+<img width="48%" src="https://raw.githubusercontent.com/Arix23/github-stats-transparent/tree/output/generated/languages.svg"
      alt="languages"/>
 </p>
