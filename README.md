@@ -5,6 +5,7 @@
  ### What I'm doing: 
  
 - ⚡ Currently grinding Leetcode
+- ⚡ Learning Oracle JET
 
 <h2 align="left">GitHub stats</h2>
 
