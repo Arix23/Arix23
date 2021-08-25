@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Computer Science Student, wanting to improve each day!
+#### Computer Science Student at ITESM, wanting to improve each day!
 
 
  ### What I'm doing: 
